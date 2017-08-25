@@ -1,0 +1,33 @@
+$ cd out/production/Kal
+
+
+$ java calendar.view_controller.text.KalPTUI
+Hi, this is Kal!
+Kal> show
+Kal> new 0,1:00,hello
+Action failed: java.lang.ArrayIndexOutOfBoundsException: -1
+Kal> save
+Action failed: java.io.IOException: Calendar not loaded from a file.
+Kal> quit
+Calendar shutting down.
+
+
+$ java calendar.view_controller.text.KalPTUI ../../../data/calendar2.txt
+Hi, this is Kal!
+Kal> show
+on 1 at 00:00 -- A new month - a new life
+on 3 at 08:30 -- arrive
+on 3 at 12:00 -- lunch
+on 3 at 14:00 -- back to work
+on 3 at 21:00 -- go home
+on 5 at 15:00 -- Party with the gang
+on 22 at 11:30 -- Leaving on a jet plane
+Kal> new 3,12:00 PM, ^?IMPORTANT MEETING
+on 3 at 08:30 -- arrive
+on 3 at 12:00 -- lunch
+on 3 at 14:00 -- back to work
+on 3 at 21:00 -- go home
+Kal> new 3,13:00 PM,Stretch the day!
+Action failed: java.lang.NumberFormatException: Bad time 25:0
+Kal> quit
+Calendar shutting down.

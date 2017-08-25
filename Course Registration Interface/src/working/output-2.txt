@@ -1,0 +1,52 @@
+> all_courses
+21{F}: Professor{7.AB}
+57{E}: Professor{13.AA}
+101{D}: Professor{1.AC}
+135{C}: Professor{7.AB}
+980{B}: Professor{13.AA}
+10001{A}: Professor{1.AC}
+> help
+add <course ID>
+	Add a course to your schedule.
+all_courses 
+	List all courses being offered.
+all_users 
+	List all the users of this system..
+enroll <student name> <course ID>
+	Add a student to your course.
+help 
+	Display commands.
+login <professor name>
+	Log in as student or professor.
+logout 
+	Go back to not-logged-in mode.
+quit 
+	Quit this program.
+roster <course ID>
+	List students enrolled in a course you are teaching.
+taking 
+	List courses in which you are enrolled.
+teaching 
+	List courses you are teaching.
+> all_users
+Command not allowed with current login status.
+> login AB
+OK
+> all_courses
+21{F}: Professor{7.AB}
+57{E}: Professor{13.AA}
+101{D}: Professor{1.AC}
+135{C}: Professor{7.AB}
+980{B}: Professor{13.AA}
+10001{A}: Professor{1.AC}
+> teaching
+21{F}: Professor{7.AB}
+135{C}: Professor{7.AB}
+> logout
+OK
+> login Dulcinea
+OK
+> taking
+57{E}: Professor{13.AA}
+21{F}: Professor{7.AB}
+> quit

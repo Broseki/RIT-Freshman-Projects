@@ -1,0 +1,9 @@
+4
+BigWoolie1,50,50,5,500
+LilWoolie8,1,7,3,50
+BigWoolie4,35,35,5,500
+LilWoolie6,3,9,3,50
+BigWoolie2,45,45,5,500
+LilWoolie7,2,8,3,50
+BigWoolie3,40,40,5,500
+LilWoolie5,4,10,3,50

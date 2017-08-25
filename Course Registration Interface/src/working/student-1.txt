@@ -1,0 +1,4 @@
+105,Alfred_Newman,102,506
+252,Bee_Bee_VIII,101,475
+199,Herman_Munster,324,213,541
+301,Stuart_Dent,475,324,541

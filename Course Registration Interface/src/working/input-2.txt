@@ -1,0 +1,10 @@
+all_courses
+help
+all_users
+login AB
+all_courses
+teaching
+logout
+login Dulcinea
+taking
+quit

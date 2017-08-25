@@ -1,0 +1,176 @@
+> # The basics -- no login
+> #
+> help
+add <course ID>
+	Add a course to your schedule.
+all_courses 
+	List all courses being offered.
+all_users 
+	List all the users of this system..
+enroll <student name> <course ID>
+	Add a student to your course.
+help 
+	Display commands.
+login <professor name>
+	Log in as student or professor.
+logout 
+	Go back to not-logged-in mode.
+quit 
+	Quit this program.
+roster <course ID>
+	List students enrolled in a course you are teaching.
+taking 
+	List courses in which you are enrolled.
+teaching 
+	List courses you are teaching.
+> all_courses
+101{Computer_Science_1}: Professor{1.Mojo_Carmichael}
+102{Computer_Science_2}: Professor{42.Elias_Jacobos}
+213{Mechanics_of_Programming}: Professor{1.Mojo_Carmichael}
+324{Principles_of_Data_Management}: Professor{13.Peter_H_Offbish}
+475{Professional_Communications}: Professor{13.Peter_H_Offbish}
+506{Computer_Graphics_1}: Professor{7.Het_Anklinger}
+541{Aspect_Oriented_Programming}: Professor{13.Peter_H_Offbish}
+> 
+> # Check for bad command
+> # 
+> kjas
+Unrecognized command "kjas"
+add <course ID>
+	Add a course to your schedule.
+all_courses 
+	List all courses being offered.
+all_users 
+	List all the users of this system..
+enroll <student name> <course ID>
+	Add a student to your course.
+help 
+	Display commands.
+login <professor name>
+	Log in as student or professor.
+logout 
+	Go back to not-logged-in mode.
+quit 
+	Quit this program.
+roster <course ID>
+	List students enrolled in a course you are teaching.
+taking 
+	List courses in which you are enrolled.
+teaching 
+	List courses you are teaching.
+> 
+> # Professor login #1
+> #
+> login Het_Anklinger
+OK
+> all_users
+Student{105.Alfred_Newman}
+Student{252.Bee_Bee_VIII}
+Professor{42.Elias_Jacobos}
+Student{199.Herman_Munster}
+Professor{7.Het_Anklinger}
+Professor{1.Mojo_Carmichael}
+Professor{13.Peter_H_Offbish}
+Student{301.Stuart_Dent}
+> enroll Stuart_Dent 506
+OK
+> logout
+OK
+> 
+> # Student login #1
+> #
+> login Stuart_Dent
+OK
+> add 506
+OK
+> logout
+OK
+> 
+> # Professor login #2
+> #
+> login Peter_H_Offbish
+OK
+> teaching
+324{Principles_of_Data_Management}: Professor{13.Peter_H_Offbish}
+475{Professional_Communications}: Professor{13.Peter_H_Offbish}
+541{Aspect_Oriented_Programming}: Professor{13.Peter_H_Offbish}
+> roster 541
+Student{199.Herman_Munster}
+Student{301.Stuart_Dent}
+> add Alfred_Newman 541 # Should fail; not student
+Command not allowed with current login status.
+> enroll Alfred_Newman 541
+OK
+> roster 541
+Student{105.Alfred_Newman}
+Student{199.Herman_Munster}
+Student{301.Stuart_Dent}
+> logout
+OK
+> 
+> # Try a command when not logged in
+> #
+> add 101
+Command not allowed with current login status.
+> 
+> # Student login #2
+> #
+> login Bee_Bee_VIII
+OK
+> add 213
+OK
+> taking
+101{Computer_Science_1}: Professor{1.Mojo_Carmichael}
+213{Mechanics_of_Programming}: Professor{1.Mojo_Carmichael}
+475{Professional_Communications}: Professor{13.Peter_H_Offbish}
+> logout
+OK
+> 
+> # Try more commands while logged out
+> #
+> all_courses # GOOD
+101{Computer_Science_1}: Professor{1.Mojo_Carmichael}
+102{Computer_Science_2}: Professor{42.Elias_Jacobos}
+213{Mechanics_of_Programming}: Professor{1.Mojo_Carmichael}
+324{Principles_of_Data_Management}: Professor{13.Peter_H_Offbish}
+475{Professional_Communications}: Professor{13.Peter_H_Offbish}
+506{Computer_Graphics_1}: Professor{7.Het_Anklinger}
+541{Aspect_Oriented_Programming}: Professor{13.Peter_H_Offbish}
+> all_users # Bad; professors only.
+Command not allowed with current login status.
+> 
+> # Professor login #3
+> #
+> login Elias_Jacobos
+OK
+> all_users
+Student{105.Alfred_Newman}
+Student{252.Bee_Bee_VIII}
+Professor{42.Elias_Jacobos}
+Student{199.Herman_Munster}
+Professor{7.Het_Anklinger}
+Professor{1.Mojo_Carmichael}
+Professor{13.Peter_H_Offbish}
+Student{301.Stuart_Dent}
+> teaching
+102{Computer_Science_2}: Professor{42.Elias_Jacobos}
+> enroll Bee_Bee_VIII 102
+OK
+> roster 102
+Student{105.Alfred_Newman}
+Student{252.Bee_Bee_VIII}
+> taking # Bad; only for students.
+Command not allowed with current login status.
+> teaching
+102{Computer_Science_2}: Professor{42.Elias_Jacobos}
+> logout
+OK
+> taking # Bad when logged out
+Command not allowed with current login status.
+> teaching # Bad when logged out
+Command not allowed with current login status.
+> roster # Bad when logged out
+Command not allowed with current login status.
+> enroll # Bad when logged out
+Command not allowed with current login status.
+> quit

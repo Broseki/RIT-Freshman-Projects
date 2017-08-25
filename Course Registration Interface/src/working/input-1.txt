@@ -1,0 +1,64 @@
+# The basics -- no login
+#
+help
+all_courses
+
+# Check for bad command
+# 
+kjas
+
+# Professor login #1
+#
+login Het_Anklinger
+all_users
+enroll Stuart_Dent 506
+logout
+
+# Student login #1
+#
+login Stuart_Dent
+add 506
+logout
+
+# Professor login #2
+#
+login Peter_H_Offbish
+teaching
+roster 541
+add Alfred_Newman 541 # Should fail; not student
+enroll Alfred_Newman 541
+roster 541
+logout
+
+# Try a command when not logged in
+#
+add 101
+
+# Student login #2
+#
+login Bee_Bee_VIII
+add 213
+taking
+logout
+
+# Try more commands while logged out
+#
+all_courses # GOOD
+all_users # Bad; professors only.
+
+# Professor login #3
+#
+login Elias_Jacobos
+all_users
+teaching
+enroll Bee_Bee_VIII 102
+roster 102
+taking # Bad; only for students.
+teaching
+logout
+taking # Bad when logged out
+teaching # Bad when logged out
+roster # Bad when logged out
+enroll # Bad when logged out
+quit
+

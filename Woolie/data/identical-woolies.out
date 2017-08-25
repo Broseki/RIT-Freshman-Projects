@@ -1,0 +1,263 @@
+Round 1
+========
+
+Battle#1[Woolie1|Woolie2] is waiting for an arena.
+Battle#2[Woolie3|Woolie4] is waiting for an arena.
+Battle#2[Woolie3|Woolie4] is in.
+Battle#1[Woolie1|Woolie2] is in.
+Battle#3[Woolie5|Woolie6] is waiting for an arena.
+Battle#4[Woolie7|Woolie8] is waiting for an arena.
+3: Woolie3->Woolie4
+        Woolie3[ 5-15 (3) *50/50* ]
+        Woolie4[ 5-15 (5) *43/50* ]
+3: Woolie1->Woolie2
+        Woolie1[ 5-15 (3) *50/50* ]
+        Woolie2[ 5-15 (5) *42/50* ]
+5: Woolie4->Woolie3
+        Woolie4[ 5-15 (5) *43/50* ]
+        Woolie3[ 5-15 (3) *41/50* ]
+5: Woolie2->Woolie1
+        Woolie2[ 5-15 (5) *42/50* ]
+        Woolie1[ 5-15 (3) *37/50* ]
+6: Woolie3->Woolie4
+        Woolie3[ 5-15 (3) *41/50* ]
+        Woolie4[ 5-15 (5) *33/50* ]
+6: Woolie1->Woolie2
+        Woolie1[ 5-15 (3) *37/50* ]
+        Woolie2[ 5-15 (5) *36/50* ]
+9: Woolie3->Woolie4
+        Woolie3[ 5-15 (3) *41/50* ]
+        Woolie4[ 5-15 (5) *19/50* ]
+9: Woolie1->Woolie2
+        Woolie1[ 5-15 (3) *37/50* ]
+        Woolie2[ 5-15 (5) *24/50* ]
+10: Woolie4->Woolie3
+        Woolie4[ 5-15 (5) *19/50* ]
+        Woolie3[ 5-15 (3) *30/50* ]
+10: Woolie2->Woolie1
+        Woolie2[ 5-15 (5) *24/50* ]
+        Woolie1[ 5-15 (3) *25/50* ]
+12: Woolie1->Woolie2
+        Woolie1[ 5-15 (3) *25/50* ]
+        Woolie2[ 5-15 (5) *19/50* ]
+12: Woolie3->Woolie4
+        Woolie3[ 5-15 (3) *30/50* ]
+        Woolie4[ 5-15 (5) *13/50* ]
+15: Woolie3->Woolie4
+        Woolie3[ 5-15 (3) *30/50* ]
+        Woolie4[ 5-15 (5) *-2/50* ]
+15: Woolie1->Woolie2
+        Woolie1[ 5-15 (3) *25/50* ]
+        Woolie2[ 5-15 (5) *10/50* ]
+15: Woolie2->Woolie1
+        Woolie2[ 5-15 (5) *10/50* ]
+        Woolie1[ 5-15 (3) *15/50* ]
+15: Woolie4->Woolie3
+        Woolie4[ 5-15 (5) *-2/50* ]
+        Woolie3[ 5-15 (3) *23/50* ]
+Woolie3 HAS WON!
+Battle#4[Woolie7|Woolie8] is in.
+3: Woolie7->Woolie8
+        Woolie7[ 5-15 (3) *50/50* ]
+        Woolie8[ 5-15 (5) *36/50* ]
+18: Woolie1->Woolie2
+        Woolie1[ 5-15 (3) *15/50* ]
+        Woolie2[ 5-15 (5) *-5/50* ]
+Woolie1 HAS WON!
+Battle#3[Woolie5|Woolie6] is in.
+5: Woolie8->Woolie7
+        Woolie8[ 5-15 (5) *36/50* ]
+        Woolie7[ 5-15 (3) *45/50* ]
+6: Woolie7->Woolie8
+        Woolie7[ 5-15 (3) *45/50* ]
+        Woolie8[ 5-15 (5) *30/50* ]
+3: Woolie5->Woolie6
+        Woolie5[ 5-15 (3) *50/50* ]
+        Woolie6[ 5-15 (5) *37/50* ]
+5: Woolie6->Woolie5
+        Woolie6[ 5-15 (5) *37/50* ]
+        Woolie5[ 5-15 (3) *41/50* ]
+9: Woolie7->Woolie8
+        Woolie7[ 5-15 (3) *45/50* ]
+        Woolie8[ 5-15 (5) *23/50* ]
+6: Woolie5->Woolie6
+        Woolie5[ 5-15 (3) *41/50* ]
+        Woolie6[ 5-15 (5) *24/50* ]
+10: Woolie8->Woolie7
+        Woolie8[ 5-15 (5) *23/50* ]
+        Woolie7[ 5-15 (3) *32/50* ]
+12: Woolie7->Woolie8
+        Woolie7[ 5-15 (3) *32/50* ]
+        Woolie8[ 5-15 (5) *10/50* ]
+9: Woolie5->Woolie6
+        Woolie5[ 5-15 (3) *41/50* ]
+        Woolie6[ 5-15 (5) *9/50* ]
+10: Woolie6->Woolie5
+        Woolie6[ 5-15 (5) *9/50* ]
+        Woolie5[ 5-15 (3) *32/50* ]
+15: Woolie7->Woolie8
+        Woolie7[ 5-15 (3) *32/50* ]
+        Woolie8[ 5-15 (5) *-3/50* ]
+15: Woolie8->Woolie7
+        Woolie8[ 5-15 (5) *-3/50* ]
+        Woolie7[ 5-15 (3) *24/50* ]
+Woolie7 HAS WON!
+12: Woolie5->Woolie6
+        Woolie5[ 5-15 (3) *32/50* ]
+        Woolie6[ 5-15 (5) *3/50* ]
+15: Woolie5->Woolie6
+        Woolie5[ 5-15 (3) *32/50* ]
+        Woolie6[ 5-15 (5) *-9/50* ]
+15: Woolie6->Woolie5
+        Woolie6[ 5-15 (5) *-9/50* ]
+        Woolie5[ 5-15 (3) *20/50* ]
+Woolie5 HAS WON!
+Round 2
+========
+
+Battle#5[Woolie9|Woolie1] is waiting for an arena.
+Battle#5[Woolie9|Woolie1] is in.
+Battle#6[Woolie3|Woolie5] is waiting for an arena.
+Battle#6[Woolie3|Woolie5] is in.
+3: Woolie3->Woolie5
+        Woolie3[ 5-15 (3) *50/50* ]
+        Woolie5[ 5-15 (3) *41/50* ]
+3: Woolie5->Woolie3
+        Woolie5[ 5-15 (3) *41/50* ]
+        Woolie3[ 5-15 (3) *44/50* ]
+3: Woolie9->Woolie1
+        Woolie9[ 5-15 (3) *50/50* ]
+        Woolie1[ 5-15 (3) *45/50* ]
+3: Woolie1->Woolie9
+        Woolie1[ 5-15 (3) *45/50* ]
+        Woolie9[ 5-15 (3) *35/50* ]
+6: Woolie3->Woolie5
+        Woolie3[ 5-15 (3) *44/50* ]
+        Woolie5[ 5-15 (3) *31/50* ]
+6: Woolie9->Woolie1
+        Woolie9[ 5-15 (3) *35/50* ]
+        Woolie1[ 5-15 (3) *32/50* ]
+6: Woolie5->Woolie3
+        Woolie5[ 5-15 (3) *31/50* ]
+        Woolie3[ 5-15 (3) *39/50* ]
+6: Woolie1->Woolie9
+        Woolie1[ 5-15 (3) *32/50* ]
+        Woolie9[ 5-15 (3) *28/50* ]
+9: Woolie3->Woolie5
+        Woolie3[ 5-15 (3) *39/50* ]
+        Woolie5[ 5-15 (3) *24/50* ]
+9: Woolie9->Woolie1
+        Woolie9[ 5-15 (3) *28/50* ]
+        Woolie1[ 5-15 (3) *17/50* ]
+9: Woolie1->Woolie9
+        Woolie1[ 5-15 (3) *17/50* ]
+        Woolie9[ 5-15 (3) *14/50* ]
+9: Woolie5->Woolie3
+        Woolie5[ 5-15 (3) *24/50* ]
+        Woolie3[ 5-15 (3) *31/50* ]
+12: Woolie9->Woolie1
+        Woolie9[ 5-15 (3) *14/50* ]
+        Woolie1[ 5-15 (3) *6/50* ]
+12: Woolie3->Woolie5
+        Woolie3[ 5-15 (3) *31/50* ]
+        Woolie5[ 5-15 (3) *10/50* ]
+12: Woolie1->Woolie9
+        Woolie1[ 5-15 (3) *6/50* ]
+        Woolie9[ 5-15 (3) *4/50* ]
+12: Woolie5->Woolie3
+        Woolie5[ 5-15 (3) *10/50* ]
+        Woolie3[ 5-15 (3) *25/50* ]
+15: Woolie3->Woolie5
+        Woolie3[ 5-15 (3) *25/50* ]
+        Woolie5[ 5-15 (3) *5/50* ]
+15: Woolie9->Woolie1
+        Woolie9[ 5-15 (3) *4/50* ]
+        Woolie1[ 5-15 (3) *-1/50* ]
+15: Woolie5->Woolie3
+        Woolie5[ 5-15 (3) *5/50* ]
+        Woolie3[ 5-15 (3) *19/50* ]
+15: Woolie1->Woolie9
+        Woolie1[ 5-15 (3) *-1/50* ]
+        Woolie9[ 5-15 (3) *-4/50* ]
+Woolie1 HAS WON!
+18: Woolie3->Woolie5
+        Woolie3[ 5-15 (3) *19/50* ]
+        Woolie5[ 5-15 (3) *-8/50* ]
+18: Woolie5->Woolie3
+        Woolie5[ 5-15 (3) *-8/50* ]
+        Woolie3[ 5-15 (3) *13/50* ]
+Woolie3 HAS WON!
+Round 3
+========
+
+Battle#7[Woolie7|Woolie1] is waiting for an arena.
+Battle#7[Woolie7|Woolie1] is in.
+3: Woolie7->Woolie1
+        Woolie7[ 5-15 (3) *50/50* ]
+        Woolie1[ 5-15 (3) *38/50* ]
+3: Woolie1->Woolie7
+        Woolie1[ 5-15 (3) *38/50* ]
+        Woolie7[ 5-15 (3) *41/50* ]
+6: Woolie7->Woolie1
+        Woolie7[ 5-15 (3) *41/50* ]
+        Woolie1[ 5-15 (3) *33/50* ]
+6: Woolie1->Woolie7
+        Woolie1[ 5-15 (3) *33/50* ]
+        Woolie7[ 5-15 (3) *30/50* ]
+9: Woolie7->Woolie1
+        Woolie7[ 5-15 (3) *30/50* ]
+        Woolie1[ 5-15 (3) *26/50* ]
+9: Woolie1->Woolie7
+        Woolie1[ 5-15 (3) *26/50* ]
+        Woolie7[ 5-15 (3) *16/50* ]
+12: Woolie7->Woolie1
+        Woolie7[ 5-15 (3) *16/50* ]
+        Woolie1[ 5-15 (3) *17/50* ]
+12: Woolie1->Woolie7
+        Woolie1[ 5-15 (3) *17/50* ]
+        Woolie7[ 5-15 (3) *9/50* ]
+15: Woolie7->Woolie1
+        Woolie7[ 5-15 (3) *9/50* ]
+        Woolie1[ 5-15 (3) *9/50* ]
+15: Woolie1->Woolie7
+        Woolie1[ 5-15 (3) *9/50* ]
+        Woolie7[ 5-15 (3) *-2/50* ]
+Woolie1 HAS WON!
+Round 4
+========
+
+Battle#8[Woolie3|Woolie1] is waiting for an arena.
+Battle#8[Woolie3|Woolie1] is in.
+3: Woolie3->Woolie1
+        Woolie3[ 5-15 (3) *50/50* ]
+        Woolie1[ 5-15 (3) *36/50* ]
+3: Woolie1->Woolie3
+        Woolie1[ 5-15 (3) *36/50* ]
+        Woolie3[ 5-15 (3) *38/50* ]
+6: Woolie3->Woolie1
+        Woolie3[ 5-15 (3) *38/50* ]
+        Woolie1[ 5-15 (3) *24/50* ]
+6: Woolie1->Woolie3
+        Woolie1[ 5-15 (3) *24/50* ]
+        Woolie3[ 5-15 (3) *33/50* ]
+9: Woolie3->Woolie1
+        Woolie3[ 5-15 (3) *33/50* ]
+        Woolie1[ 5-15 (3) *18/50* ]
+9: Woolie1->Woolie3
+        Woolie1[ 5-15 (3) *18/50* ]
+        Woolie3[ 5-15 (3) *25/50* ]
+12: Woolie3->Woolie1
+        Woolie3[ 5-15 (3) *25/50* ]
+        Woolie1[ 5-15 (3) *9/50* ]
+12: Woolie1->Woolie3
+        Woolie1[ 5-15 (3) *9/50* ]
+        Woolie3[ 5-15 (3) *10/50* ]
+15: Woolie3->Woolie1
+        Woolie3[ 5-15 (3) *10/50* ]
+        Woolie1[ 5-15 (3) *-1/50* ]
+15: Woolie1->Woolie3
+        Woolie1[ 5-15 (3) *-1/50* ]
+        Woolie3[ 5-15 (3) *-3/50* ]
+Woolie1 HAS WON!
+
+The champion is Woolie1!

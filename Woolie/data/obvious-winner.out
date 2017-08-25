@@ -1,0 +1,275 @@
+Round 1
+========
+
+Battle#1[BigWoolie1|LilWoolie8] is waiting for an arena.
+Battle#1[BigWoolie1|LilWoolie8] is in.
+Battle#2[BigWoolie4|LilWoolie6] is waiting for an arena.
+Battle#3[BigWoolie2|LilWoolie7] is waiting for an arena.
+Battle#3[BigWoolie2|LilWoolie7] is in.
+Battle#2[BigWoolie4|LilWoolie6] is in.
+Battle#4[BigWoolie3|LilWoolie5] is waiting for an arena.
+Battle#4[BigWoolie3|LilWoolie5] is in.
+3: LilWoolie7->BigWoolie2
+        LilWoolie7[ 2-8 (3) *50/50* ]
+        BigWoolie2[ 45-45 (5) *497/500* ]
+3: LilWoolie6->BigWoolie4
+        LilWoolie6[ 3-9 (3) *50/50* ]
+        BigWoolie4[ 35-35 (5) *492/500* ]
+3: LilWoolie8->BigWoolie1
+        LilWoolie8[ 1-7 (3) *50/50* ]
+        BigWoolie1[ 50-50 (5) *496/500* ]
+3: LilWoolie5->BigWoolie3
+        LilWoolie5[ 4-10 (3) *50/50* ]
+        BigWoolie3[ 40-40 (5) *494/500* ]
+5: BigWoolie2->LilWoolie7
+        BigWoolie2[ 45-45 (5) *497/500* ]
+        LilWoolie7[ 2-8 (3) *5/50* ]
+5: BigWoolie3->LilWoolie5
+        BigWoolie3[ 40-40 (5) *494/500* ]
+        LilWoolie5[ 4-10 (3) *10/50* ]
+5: BigWoolie4->LilWoolie6
+        BigWoolie4[ 35-35 (5) *492/500* ]
+        LilWoolie6[ 3-9 (3) *15/50* ]
+5: BigWoolie1->LilWoolie8
+        BigWoolie1[ 50-50 (5) *496/500* ]
+        LilWoolie8[ 1-7 (3) *0/50* ]
+BigWoolie1 HAS WON!
+6: LilWoolie6->BigWoolie4
+        LilWoolie6[ 3-9 (3) *15/50* ]
+        BigWoolie4[ 35-35 (5) *489/500* ]
+6: LilWoolie7->BigWoolie2
+        LilWoolie7[ 2-8 (3) *5/50* ]
+        BigWoolie2[ 45-45 (5) *492/500* ]
+6: LilWoolie5->BigWoolie3
+        LilWoolie5[ 4-10 (3) *10/50* ]
+        BigWoolie3[ 40-40 (5) *490/500* ]
+9: LilWoolie7->BigWoolie2
+        LilWoolie7[ 2-8 (3) *5/50* ]
+        BigWoolie2[ 45-45 (5) *486/500* ]
+9: LilWoolie5->BigWoolie3
+        LilWoolie5[ 4-10 (3) *10/50* ]
+        BigWoolie3[ 40-40 (5) *482/500* ]
+9: LilWoolie6->BigWoolie4
+        LilWoolie6[ 3-9 (3) *15/50* ]
+        BigWoolie4[ 35-35 (5) *480/500* ]
+10: BigWoolie2->LilWoolie7
+        BigWoolie2[ 45-45 (5) *486/500* ]
+        LilWoolie7[ 2-8 (3) *-40/50* ]
+10: BigWoolie3->LilWoolie5
+        BigWoolie3[ 40-40 (5) *482/500* ]
+        LilWoolie5[ 4-10 (3) *-30/50* ]
+10: BigWoolie4->LilWoolie6
+        BigWoolie4[ 35-35 (5) *480/500* ]
+        LilWoolie6[ 3-9 (3) *-20/50* ]
+BigWoolie3 HAS WON!
+BigWoolie2 HAS WON!
+BigWoolie4 HAS WON!
+Round 2
+========
+
+Battle#5[BigWoolie1|BigWoolie4] is waiting for an arena.
+Battle#5[BigWoolie1|BigWoolie4] is in.
+Battle#6[BigWoolie2|BigWoolie3] is waiting for an arena.
+Battle#6[BigWoolie2|BigWoolie3] is in.
+5: BigWoolie1->BigWoolie4
+        BigWoolie1[ 50-50 (5) *500/500* ]
+        BigWoolie4[ 35-35 (5) *450/500* ]
+5: BigWoolie4->BigWoolie1
+        BigWoolie4[ 35-35 (5) *450/500* ]
+        BigWoolie1[ 50-50 (5) *465/500* ]
+5: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *500/500* ]
+        BigWoolie3[ 40-40 (5) *455/500* ]
+5: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *455/500* ]
+        BigWoolie2[ 45-45 (5) *460/500* ]
+10: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *460/500* ]
+        BigWoolie3[ 40-40 (5) *410/500* ]
+10: BigWoolie1->BigWoolie4
+        BigWoolie1[ 50-50 (5) *465/500* ]
+        BigWoolie4[ 35-35 (5) *400/500* ]
+10: BigWoolie4->BigWoolie1
+        BigWoolie4[ 35-35 (5) *400/500* ]
+        BigWoolie1[ 50-50 (5) *430/500* ]
+10: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *410/500* ]
+        BigWoolie2[ 45-45 (5) *420/500* ]
+15: BigWoolie1->BigWoolie4
+        BigWoolie1[ 50-50 (5) *430/500* ]
+        BigWoolie4[ 35-35 (5) *350/500* ]
+15: BigWoolie4->BigWoolie1
+        BigWoolie4[ 35-35 (5) *350/500* ]
+        BigWoolie1[ 50-50 (5) *395/500* ]
+15: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *420/500* ]
+        BigWoolie3[ 40-40 (5) *365/500* ]
+15: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *365/500* ]
+        BigWoolie2[ 45-45 (5) *380/500* ]
+20: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *380/500* ]
+        BigWoolie3[ 40-40 (5) *320/500* ]
+20: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *320/500* ]
+        BigWoolie2[ 45-45 (5) *340/500* ]
+20: BigWoolie1->BigWoolie4
+        BigWoolie1[ 50-50 (5) *395/500* ]
+        BigWoolie4[ 35-35 (5) *300/500* ]
+20: BigWoolie4->BigWoolie1
+        BigWoolie4[ 35-35 (5) *300/500* ]
+        BigWoolie1[ 50-50 (5) *360/500* ]
+25: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *340/500* ]
+        BigWoolie3[ 40-40 (5) *275/500* ]
+25: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *275/500* ]
+        BigWoolie2[ 45-45 (5) *300/500* ]
+25: BigWoolie1->BigWoolie4
+        BigWoolie1[ 50-50 (5) *360/500* ]
+        BigWoolie4[ 35-35 (5) *250/500* ]
+25: BigWoolie4->BigWoolie1
+        BigWoolie4[ 35-35 (5) *250/500* ]
+        BigWoolie1[ 50-50 (5) *325/500* ]
+30: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *300/500* ]
+        BigWoolie3[ 40-40 (5) *230/500* ]
+30: BigWoolie1->BigWoolie4
+        BigWoolie1[ 50-50 (5) *325/500* ]
+        BigWoolie4[ 35-35 (5) *200/500* ]
+30: BigWoolie4->BigWoolie1
+        BigWoolie4[ 35-35 (5) *200/500* ]
+        BigWoolie1[ 50-50 (5) *290/500* ]
+30: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *230/500* ]
+        BigWoolie2[ 45-45 (5) *260/500* ]
+35: BigWoolie1->BigWoolie4
+        BigWoolie1[ 50-50 (5) *290/500* ]
+        BigWoolie4[ 35-35 (5) *150/500* ]
+35: BigWoolie4->BigWoolie1
+        BigWoolie4[ 35-35 (5) *150/500* ]
+        BigWoolie1[ 50-50 (5) *255/500* ]
+35: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *260/500* ]
+        BigWoolie3[ 40-40 (5) *185/500* ]
+35: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *185/500* ]
+        BigWoolie2[ 45-45 (5) *220/500* ]
+40: BigWoolie1->BigWoolie4
+        BigWoolie1[ 50-50 (5) *255/500* ]
+        BigWoolie4[ 35-35 (5) *100/500* ]
+40: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *220/500* ]
+        BigWoolie3[ 40-40 (5) *140/500* ]
+40: BigWoolie4->BigWoolie1
+        BigWoolie4[ 35-35 (5) *100/500* ]
+        BigWoolie1[ 50-50 (5) *220/500* ]
+40: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *140/500* ]
+        BigWoolie2[ 45-45 (5) *180/500* ]
+45: BigWoolie1->BigWoolie4
+        BigWoolie1[ 50-50 (5) *220/500* ]
+        BigWoolie4[ 35-35 (5) *50/500* ]
+45: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *180/500* ]
+        BigWoolie3[ 40-40 (5) *95/500* ]
+45: BigWoolie4->BigWoolie1
+        BigWoolie4[ 35-35 (5) *50/500* ]
+        BigWoolie1[ 50-50 (5) *185/500* ]
+45: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *95/500* ]
+        BigWoolie2[ 45-45 (5) *140/500* ]
+50: BigWoolie1->BigWoolie4
+        BigWoolie1[ 50-50 (5) *185/500* ]
+        BigWoolie4[ 35-35 (5) *0/500* ]
+50: BigWoolie4->BigWoolie1
+        BigWoolie4[ 35-35 (5) *0/500* ]
+        BigWoolie1[ 50-50 (5) *150/500* ]
+50: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *140/500* ]
+        BigWoolie3[ 40-40 (5) *50/500* ]
+50: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *50/500* ]
+        BigWoolie2[ 45-45 (5) *100/500* ]
+BigWoolie1 HAS WON!
+55: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *100/500* ]
+        BigWoolie3[ 40-40 (5) *5/500* ]
+55: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *5/500* ]
+        BigWoolie2[ 45-45 (5) *60/500* ]
+60: BigWoolie2->BigWoolie3
+        BigWoolie2[ 45-45 (5) *60/500* ]
+        BigWoolie3[ 40-40 (5) *-40/500* ]
+60: BigWoolie3->BigWoolie2
+        BigWoolie3[ 40-40 (5) *-40/500* ]
+        BigWoolie2[ 45-45 (5) *20/500* ]
+BigWoolie2 HAS WON!
+Round 3
+========
+
+Battle#7[BigWoolie1|BigWoolie2] is waiting for an arena.
+Battle#7[BigWoolie1|BigWoolie2] is in.
+5: BigWoolie1->BigWoolie2
+        BigWoolie1[ 50-50 (5) *500/500* ]
+        BigWoolie2[ 45-45 (5) *450/500* ]
+5: BigWoolie2->BigWoolie1
+        BigWoolie2[ 45-45 (5) *450/500* ]
+        BigWoolie1[ 50-50 (5) *455/500* ]
+10: BigWoolie1->BigWoolie2
+        BigWoolie1[ 50-50 (5) *455/500* ]
+        BigWoolie2[ 45-45 (5) *400/500* ]
+10: BigWoolie2->BigWoolie1
+        BigWoolie2[ 45-45 (5) *400/500* ]
+        BigWoolie1[ 50-50 (5) *410/500* ]
+15: BigWoolie1->BigWoolie2
+        BigWoolie1[ 50-50 (5) *410/500* ]
+        BigWoolie2[ 45-45 (5) *350/500* ]
+15: BigWoolie2->BigWoolie1
+        BigWoolie2[ 45-45 (5) *350/500* ]
+        BigWoolie1[ 50-50 (5) *365/500* ]
+20: BigWoolie1->BigWoolie2
+        BigWoolie1[ 50-50 (5) *365/500* ]
+        BigWoolie2[ 45-45 (5) *300/500* ]
+20: BigWoolie2->BigWoolie1
+        BigWoolie2[ 45-45 (5) *300/500* ]
+        BigWoolie1[ 50-50 (5) *320/500* ]
+25: BigWoolie1->BigWoolie2
+        BigWoolie1[ 50-50 (5) *320/500* ]
+        BigWoolie2[ 45-45 (5) *250/500* ]
+25: BigWoolie2->BigWoolie1
+        BigWoolie2[ 45-45 (5) *250/500* ]
+        BigWoolie1[ 50-50 (5) *275/500* ]
+30: BigWoolie1->BigWoolie2
+        BigWoolie1[ 50-50 (5) *275/500* ]
+        BigWoolie2[ 45-45 (5) *200/500* ]
+30: BigWoolie2->BigWoolie1
+        BigWoolie2[ 45-45 (5) *200/500* ]
+        BigWoolie1[ 50-50 (5) *230/500* ]
+35: BigWoolie1->BigWoolie2
+        BigWoolie1[ 50-50 (5) *230/500* ]
+        BigWoolie2[ 45-45 (5) *150/500* ]
+35: BigWoolie2->BigWoolie1
+        BigWoolie2[ 45-45 (5) *150/500* ]
+        BigWoolie1[ 50-50 (5) *185/500* ]
+40: BigWoolie1->BigWoolie2
+        BigWoolie1[ 50-50 (5) *185/500* ]
+        BigWoolie2[ 45-45 (5) *100/500* ]
+40: BigWoolie2->BigWoolie1
+        BigWoolie2[ 45-45 (5) *100/500* ]
+        BigWoolie1[ 50-50 (5) *140/500* ]
+45: BigWoolie1->BigWoolie2
+        BigWoolie1[ 50-50 (5) *140/500* ]
+        BigWoolie2[ 45-45 (5) *50/500* ]
+45: BigWoolie2->BigWoolie1
+        BigWoolie2[ 45-45 (5) *50/500* ]
+        BigWoolie1[ 50-50 (5) *95/500* ]
+50: BigWoolie1->BigWoolie2
+        BigWoolie1[ 50-50 (5) *95/500* ]
+        BigWoolie2[ 45-45 (5) *0/500* ]
+50: BigWoolie2->BigWoolie1
+        BigWoolie2[ 45-45 (5) *0/500* ]
+        BigWoolie1[ 50-50 (5) *50/500* ]
+BigWoolie1 HAS WON!
+
+The champion is BigWoolie1!
