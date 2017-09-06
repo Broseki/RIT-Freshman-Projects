@@ -1,0 +1,3 @@
+I would choose somewhere around 90 as the minimum as the time for processing large arrays was lowest there.
+
+The times varied slightly between tests but 90 was generally in the middle of the lowest times.

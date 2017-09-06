@@ -1,0 +1,11 @@
+commit 5181a698be50c56be16e2826a5db82699b0b83e1
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sun Jan 29 19:07:07 2017 -0500
+
+    Improved documentation, and cleaned up code to improve readability.
+
+commit f321ad5fda9b163f7d54bffbf6c1bc5ec01065dd
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sun Jan 29 15:11:54 2017 -0500
+
+    Initial commit

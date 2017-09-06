@@ -1,0 +1,65 @@
+commit 05dde07817299e669d7ccf4db5b238c164a7fdf7
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Mon Feb 6 17:06:00 2017 -0500
+
+    Implemented the init function.
+
+commit 5bcc8b45434075c3724dd9d91fb1138aa455a925
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sun Feb 5 15:41:03 2017 -0500
+
+    Improved function documentation
+
+commit 1113fdefa4ad38b90a0ff867ce4c6e81045a083b
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sat Feb 4 02:02:52 2017 -0500
+
+    Improved function documentation.
+
+commit f252fb3acacbe4d33c089b850a6227fc4355237a
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sat Feb 4 01:35:52 2017 -0500
+
+    Implemented color.
+
+commit 3986ec05ede171adefa26da68b977f22f6f79914
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sat Feb 4 01:26:12 2017 -0500
+
+    Added user input, and basic error handling.
+
+commit e551830b33c33ec9efbe03d4c42835eef7fdc352
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Fri Feb 3 21:38:40 2017 -0500
+
+    Fully implemented shape drawing
+
+commit ec3279353216a874183d1cd1561ee1d2b13979a2
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Fri Feb 3 21:24:54 2017 -0500
+
+    Completed function to draw second half of the interior shape
+
+commit c18a4cc3087678b3d40dc488b1a6d3b174ebabce
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Fri Feb 3 20:00:09 2017 -0500
+
+    Completed half of the recursive drawing function
+
+commit 5d622ef2f94bad98b71cb35bce7d6464c00c60e2
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Fri Feb 3 19:48:20 2017 -0500
+
+    Added function to draw the main shape
+
+commit 6a03526d8d41ae4c765e6628b04b4491469f7935
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Fri Feb 3 18:14:36 2017 -0500
+
+    Implemented the function to draw the first square
+
+commit d2d04dbccfc677688302b3397ca915d55c4494e0
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Fri Feb 3 18:01:22 2017 -0500
+
+    Initial Commit

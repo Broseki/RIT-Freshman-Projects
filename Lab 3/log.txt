@@ -1,0 +1,95 @@
+commit aefa8c05514f529ed1b7d73a5b9989dfe759dc6b
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Feb 14 17:14:26 2017 -0500
+
+    Increased number of tests
+
+commit bba9d5f48f154a881f5d3eecb42cef1e63d1786c
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Feb 14 17:05:09 2017 -0500
+
+    Renamed plot file.
+
+commit 1d986ffcef4014ac8c4ccc38be8cd14916f83078
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Feb 14 16:14:53 2017 -0500
+
+    Generated the final graphs and explanation file.
+
+commit f83d82e2912997d3b521b44b87d3ed77f436ebd6
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Mon Feb 13 18:50:03 2017 -0500
+
+    Generated a more accurate graph
+
+commit af2e9a978c1b6580b5118e865e9ed8b8cbfc7cb0
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Mon Feb 13 18:08:43 2017 -0500
+
+    Generated a more accurate graph
+
+commit 51b3e0ea52341aab6910e1254d902d7edfdd3c64
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Mon Feb 13 17:45:26 2017 -0500
+
+    Cleaned up code, and added to documentation
+
+commit 2ce110aa4fc4aa581420d8fd9e4831672f808b34
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Mon Feb 13 17:29:33 2017 -0500
+
+    Added print function to instruct the user to close the graph when done.
+
+commit f509cbb6ffc4d215afbc2fff0e1113f6a28c02c6
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Mon Feb 13 17:20:17 2017 -0500
+
+    Improved documentation and added image of timing graph
+
+commit 0795c0fe9452b89d0411f6e8479bbf17c0ae6fec
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sun Feb 12 21:13:07 2017 -0500
+
+    Increased array size for better accuracy.
+
+commit e1a65f1e78d4d335b224bcc6878d0ed90626be62
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sun Feb 12 20:33:59 2017 -0500
+
+    Added graph plotting feature.
+
+commit fe448064170d2ec3dc6617aa473462f9d472a5bd
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sun Feb 12 16:50:33 2017 -0500
+
+    Fixed the is_sorted function.
+
+commit 298b86ed2b5b5bf433e28f6fcb1b9ba75ef189e5
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sun Feb 12 15:59:50 2017 -0500
+
+    Renamed the Python program to the required name.
+
+commit 9e78b72c4516222a7f3cacd211d61e4669c20ee7
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sun Feb 12 15:57:03 2017 -0500
+
+    Fixed the quick-sort function.
+
+commit 57ba04fc0d7a7c412ab819b051d984413f1f7094
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sun Feb 12 12:56:49 2017 -0500
+
+    Implemented intelligent hybrid-sort
+
+commit 48d0f2eada2af59ab9326730376bc1ea6b921e8b
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sun Feb 12 00:15:12 2017 -0500
+
+    Implemented Quick-Sort
+
+commit 4ad924f723eb801d1fb33b2356832dd9b80d7ec5
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Sat Feb 11 20:57:54 2017 -0500
+
+    Initial Commit

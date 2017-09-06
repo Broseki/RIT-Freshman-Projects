@@ -1,0 +1,83 @@
+commit 3ffca93544b85815db13189da5edaeff5fac64ef
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Thu Mar 23 18:47:10 2017 -0400
+
+    Improved documentation for Ava
+
+commit a1b0d08baab2b01b07c5d859e15f40fb0b351c16
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Mar 21 23:20:17 2017 -0400
+
+    Improved documentation for the cassio_board file
+
+commit 0f149d5109e88dab44f998e05cc336514c34b4fc
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Mar 21 23:13:17 2017 -0400
+
+    Added documentation to the cassio_board file
+
+commit b84145226413d5e3dc9f54bd00d6890222026c69
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Mar 21 23:09:48 2017 -0400
+
+    Added documentation to the AI
+
+commit fb2d4fbeaa7d4bf6372f4902dedcedd145f7d4b1
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Mar 21 20:11:25 2017 -0400
+
+    Improved AI accuracy by changing weights
+
+commit e7c16367959b1fc22dd9870b25f72b9e44cd93f0
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Mar 21 19:41:11 2017 -0400
+
+    Improved weighting system for points
+
+commit 45accb5b514218c7eea807ec793a9ce5227d31c6
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Mar 21 19:24:30 2017 -0400
+
+    Added weights to important points such as corners.
+
+commit 5f1066be943249a48afee49c58aa248fa1f2fbbf
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Mar 21 19:00:07 2017 -0400
+
+    Completed decision making function
+
+commit 17751a4919f451f522ff12b27642ac3c7343a435
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Mar 21 16:21:25 2017 -0400
+
+    Made AI flipping more dynamic. It can now sense moves from both players.
+
+commit be5ee3815fb7b4f6f012bab35dd1339b5e59967d
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Mar 21 16:16:17 2017 -0400
+
+    Improved AI flipping function
+
+commit b1d2cccc3faf682486b7495995e07ae2832225c3
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Mon Mar 20 16:06:23 2017 -0400
+
+    Completed basic AI implementation
+
+commit 7be8bda4f6d5ff4522778c919aa75e611e7686e7
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Mon Mar 20 15:02:11 2017 -0400
+
+    Added the board printing functionality
+
+commit 352e5209dac2768e097dc788c18e18e513a8d7a2
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Tue Mar 14 22:47:56 2017 -0400
+
+    Added AI file and cassio_board file
+
+commit 367c0c3947594046ba618aef303f9db482588628
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Mon Mar 13 21:58:36 2017 -0400
+
+    Initial Commit

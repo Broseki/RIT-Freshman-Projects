@@ -1,0 +1,11 @@
+commit 9a5744a10dd45660045ecf3eebb76f1e8542e8bc
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Fri Jan 20 13:40:15 2017 -0500
+
+    Changed program to draw two squares
+
+commit 1d4ac2b053e4efe3d1e58a5767e9d215f23c5fae
+Author: Michael Canning <mxc9798@rit.edu>
+Date:   Fri Jan 20 13:28:05 2017 -0500
+
+    Initial Commit
